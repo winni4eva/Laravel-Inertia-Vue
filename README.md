@@ -1,7 +1,6 @@
 ### Setup Guide
 
-Just a simple Laravel 8 application using Laravel Mix, a SQLite db that has already been
-migrated and seeded. 
+Just a simple Laravel 8 application using Laravel Mix. 
 
 1. Create a copy of the `.env.example` as `.env`
 1. Run `composer install`
